@@ -1,0 +1,30 @@
+{
+  "name": "uni-sushi-flashloaner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bignumber.js": "^9.0.1",
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.0.12",
+    "node-notifier": "^9.0.1",
+    "web3": "^1.3.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "pryjs": "^1.0.3",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-hdwallet-provider-privkey": "^0.3.0"
+  },
+  "keywords": [
+    "defi",
+    "ethereum",
+    "flashloans"
+  ]
+}
